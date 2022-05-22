@@ -1,0 +1,13 @@
+Machine Learning Model Draft
+Isolate attrited customers from existing customers
+find patterns from attrited cx
+use patterns from step 2 to see who are more likely to stay or leave among existing customers
+We will use supervised machine learning
+
+About Data Set 
+   
+A business manager of a credit card company is facing the issue of customer attrition. He or she wants to find out the factors that are causing this issue and then use the data to predict which customers will eventually leave the company.
+
+Overview 
+
+For our group project we are going to use a Supervised learning Model. We aim to predict which customers are most likely to churn. We will be using 16% of the data to establish the trends or patterns for the attritted customers in order to identify the behaviors. Once we identify the behaviors of the attrited customers we will compare them to the existing customers in order to single out the potential outliners. Once we find the potential outliners we can provide this data to the company to help with customer retention, targeted marketing and overall expenses. 
