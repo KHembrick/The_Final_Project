@@ -1,0 +1,6 @@
+Database overview
+
+data extracted from kaggle.com which is presented in the first committ
+Data was then cleaned to present only relevent and fulll data to our project. The file name is bankchurn1.1
+Bankchurn1.1 was then imported into PgAdmin. the file bankchurnDB is the exported file from pgadmin.
+
