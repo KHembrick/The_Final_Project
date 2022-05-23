@@ -6,4 +6,4 @@ Credit card services is one of major forms of payment in the retail industry tod
 ## Description of the communication protocols
 ![Communication Protocol](https://user-images.githubusercontent.com/96032255/169706079-971a289d-e0c6-4aef-82e2-a9385ce7d963.PNG)
 
-Our group uses Zoom and Slack as our main way of communicating. On top of our class meetings, we have decided to meet outside class hours via Zoom. Each time we upload or make modification to our project, we notify group members through Slack. In the same way, comments and suggestions are also sent via Slack. 
+Our group uses Zoom and Slack as our main way of communicating. On top of our class meetings, we have decided to meet outside class hours via Zoom. Each time we upload or make modification to our project, we notify group members through Slack. In the same way, comments and suggestions are sent via Slack. 
