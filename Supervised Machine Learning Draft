@@ -10,4 +10,7 @@ A business manager of a credit card company is facing the issue of customer attr
 
 Overview 
 
-For our group project we are going to use a Supervised learning Model. We aim to predict which customers are most likely to churn. We will be using 16% of the data to establish the trends or patterns for the attritted customers in order to identify the behaviors. Once we identify the behaviors of the attrited customers we will compare them to the existing customers in order to single out the potential outliners. Once we find the potential outliners we can provide this data to the company to help with customer retention, targeted marketing and overall expenses. 
+For our group project we are going to use a Supervised learning Model. We aim to predict which customers are most likely to churn. We will be using 16% of the data to establish the trends or patterns for the attritted customers in order to identify the behaviors. Once we identify the behaviors of the attrited customers we will compare them to the existing customers in order to single out the potential outliners. Once we find the potential outliners we can provide this data to the company to help with customer retention, targeted marketing and overall expenses.
+
+Model 
+Logistic Regression OverSampling 
