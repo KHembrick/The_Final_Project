@@ -16,5 +16,10 @@ We have taken the raw data and cleaned and checked for any duplicates and any un
 
 The next step is to take our cleaned data and import it into python to build a supervised machine learning model. Below is a snippet of the Exploratory Data Analysis code and the ouput in the client info section.
 ![mc learning](https://user-images.githubusercontent.com/96032255/170894286-40c098db-8468-4c12-9176-b2d690278b9d.PNG)
+It will also be important in our analysis to use the Logistic Regression Model to obtain odds ratio in the presence of more than one explantory variable, which is a popular algorithm to solve a classification problem. 
+![logis](https://user-images.githubusercontent.com/96032255/170895482-006b1b3b-bdad-440b-bee5-01a86c2f5e06.PNG)
+
+Overall our final goal is to continue to analyze the cleaned data to isolate the attrited customers from the existing customers and find behaviors that our causing customers to churn or drop off. 
+
 
 Our group uses Zoom and Slack as our main way of communicating. On top of our class meetings, we have decided to meet outside class hours via Zoom. Each time we upload or make modification to our project, we notify group members through Slack. In the same way, comments and suggestions are sent via Slack. 
