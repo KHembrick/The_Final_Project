@@ -13,4 +13,7 @@ Our group has analyzed the customer demographic trends and retrieved all relevan
 + There are 8,500 existing customers and 1,627 attrited customers whom 930 are female and 697 are male. In the chart below you will notice that woman have a higher number, which means woman are more likely to churn than men.
 ![check2](https://user-images.githubusercontent.com/96032255/172072949-8dccce22-79bd-4e1a-bb5c-0400cbdfcd9c.PNG)
 
+## Presentation Links
 
+#### [Google Slides](https://docs.google.com/presentation/d/1AuiycLoe2rpS4886QBwBy9vm-aU0bIaKz_qGyI95m-Q/edit?usp=sharing)
+#### Tableau [Project Dashboard](https://public.tableau.com/views/Project_Dashboard_16544692745830/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
