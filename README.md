@@ -1,25 +1,16 @@
 # The_Final_Project
+### CREDIT CARD CUSTOMER CHURN PREDICTION MODEL
+![image 4 seg 3](https://user-images.githubusercontent.com/96032255/172059609-6aac6a68-9a33-4823-8399-4a2f7a999639.PNG)
 
-![front pic](https://user-images.githubusercontent.com/96032255/170892694-0d5e54ef-92d5-48a2-933d-33070ed754be.PNG)
+## Problem Statement 
+A manager at the bank is disturbed with more and more customers leaving their credit card services. They would really appreciate if we could predict for them who is gonna get churned so they can proactively go to the customer to provide them better services and turn customers' decisions in the opposite direction.Customer Churn (customer attrition) is the most challenging problem for Banks. 
 
-The Credit card insdustry is a very commpetative industry. Statistics show that credit cards are the most prferred payment amongst customers according to statista.com 
-https://www.statista.com/statistics/568523/preferred-payment-methods-usa/
-
-## Details about the Raw Data
-
-The Raw dataset consist of 10,000 customers that includes their age, education level, martial status and income etc. There are nearly 18 features.
-
-## How are we going to Predict Customers who are likely to churn?
-
-We have taken the raw data and cleaned and checked for any duplicates and any unnecessary coloums. Next we used SQL and created a Entity Relationship Diagram (ERD) as shown in the image below.
-![erd](https://user-images.githubusercontent.com/96032255/170893885-28e3cf49-2b5f-4455-a4dd-3bd622fe9427.PNG)
-
-The next step is to take our cleaned data and import it into python to build a supervised machine learning model. Below is a snippet of the Exploratory Data Analysis code and the ouput in the client info section.
-![mc learning](https://user-images.githubusercontent.com/96032255/170894286-40c098db-8468-4c12-9176-b2d690278b9d.PNG)
-It will also be important in our analysis to use the Logistic Regression Model to obtain odds ratio in the presence of more than one explantory variable, which is a popular algorithm to solve a classification problem. 
-![logis](https://user-images.githubusercontent.com/96032255/170895482-006b1b3b-bdad-440b-bee5-01a86c2f5e06.PNG)
-
-Overall our final goal is to continue to analyze the cleaned data to isolate the attrited customers from the existing customers and find behaviors that our causing customers to churn or drop off. 
+## Completed Objective
+Our group has analyzed the customer demographic trends and retrieved all relevant data using SQL (Structured Query Language). A Supervised Machinge Learning Algorithm was developed using the Logistic Regression Oversampling Model that predicts the customers who are likely to churn from the existing customers. The Manager of the Bank is pleased with the presentation using google slides. Visual Analytics is extremely important to non tech savy people, so we used Tableau. Tableau is a visual analytics platform that transform the way we use data to solve problems, it will aide in the way the banks see and understand our analytical prediction.
 
 
-Our group uses Zoom and Slack as our main way of communicating. On top of our class meetings, we have decided to meet outside class hours via Zoom. Each time we upload or make modification to our project, we notify group members through Slack. In the same way, comments and suggestions are sent via Slack. 
+## Exploratory Data Analysis
++ There are 8,500 existing customers and 1,627 attrited customers whom 930 are female and 697 are male. In the chart below you will notice that woman have a higher number, which means woman are more likely to churn than men.
+![check2](https://user-images.githubusercontent.com/96032255/172072949-8dccce22-79bd-4e1a-bb5c-0400cbdfcd9c.PNG)
+
+
