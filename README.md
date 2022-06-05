@@ -1,5 +1,5 @@
 # The_Final_Project
-![copy2](https://user-images.githubusercontent.com/96032255/170900181-8499f1e7-3990-4de9-ab2a-b678fafff8fc.PNG)
+![image 4 seg 3](https://user-images.githubusercontent.com/96032255/172059609-6aac6a68-9a33-4823-8399-4a2f7a999639.PNG)
 
 The Credit card insdustry is a very commpetative industry. Statistics show that credit cards are the most prferred payment amongst customers according to statista.com
 
