@@ -20,7 +20,7 @@ Our group has analyzed the customer demographic trends and retrieved all relevan
 + There are 8,500 existing customers and 1,627 attrited customers with 930 are female and 697 are male. In the chart below you will notice that woman are more likely to churn than men.
 ![check2](https://user-images.githubusercontent.com/96032255/172072949-8dccce22-79bd-4e1a-bb5c-0400cbdfcd9c.PNG)
 
-+ Durning our analysis we noticed that Blue card customers are more likely to churn than in any other card category. Customers with a income of less than 40k,  customers that are married and costomers who are graduates are more likely to churn as shown in the tables below.
++ Durning our analysis we noticed that Blue card customers are more likely to churn than in any other card category. Customers with a income of less than 40k,  customers that are married and customers who are graduates are more likely to churn as shown in the tables below.
 ![ccharts](https://user-images.githubusercontent.com/96032255/172073882-d57e2272-88d6-4983-833d-b2ba424ab967.PNG)
 
 + Overall there are 16.1% of customers who have churned with 83.9% of Existing customers who have not. Please view the Graphs below.
