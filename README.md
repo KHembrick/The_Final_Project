@@ -8,7 +8,7 @@ A manager at the bank is disturbed with more and more customers leaving their cr
 ## Completed Objective
 Our group has analyzed the customer demographic trends and retrieved all relevant data using SQL (Structured Query Language). A Supervised Machinge Learning Algorithm was developed using the Logistic Regression Oversampling Model that predicts the customers who are likely to churn from the existing customers. To train and validate the model, we'll split the target sets and features into two sets. The training set will help us identify the relationships between the various features in the model and the target set. The testing set will help us determine the validity of the model. We Choose to based our model off 9 basic columns. With narrowing the columns down to six main features. We believe those five features to be the driving factors for customer Attrition. The final step will be the presentation using google slides. Visual Analytics is extremely important to non tech savy people, so we used Tableau. Tableau is a visual analytics platform that transform the way we use data to solve problems, it will aide in the way the banks see and understand our analytical prediction.
 
-#### Main Features
+### Main Features
 + Gender
 + Education Level
 + Age
