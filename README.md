@@ -26,4 +26,7 @@ Our group has analyzed the customer demographic trends and retrieved all relevan
 + Overall there are 16.1% of customers who have churned with 83.9% of Existing customers who have not. Please view the Graphs below.
 ![graph](https://user-images.githubusercontent.com/96032255/172074302-7eb87a81-48fd-49f0-8e0f-66b8aa5520a8.PNG)
 
+
+## Summary
+We Choose to based our model off 9 basic columns. With narrowing the columns down to five main features. We believe those five features to be the driving factors for customer Attrition. 
 #### Please Checkout the Google Presentation Link
