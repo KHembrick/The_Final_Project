@@ -29,7 +29,5 @@ Feature Engineering
 
     Model Choice
     
-• We Choose Random oversampling because we based our model off of 16% 
-of the overall data we were provided. The 16% of the data were the Attrited customers data.
-
+• We Choose Random oversampling because we based our model off of 16% of the overall data we were provided. The 16% of the data were the Attrited customers data.
 • The Accuracy score reported a %50 chance to predict the clients that are likely to churn. 
