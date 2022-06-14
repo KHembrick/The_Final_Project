@@ -1,0 +1,35 @@
+Feature Engineering
+
+    The nine columns
+
+• Attrition_Flag - whether or not the client will leave the bank
+• CLIENTNUM- clients ID number
+• Customer_Age- Age of the client 
+• Gender-The sex of the client
+• Dependent_count- Number people client supports
+• Education_Level- Education Qualification of the client
+• Marital_Status- Describe the relationship status of the client
+• Income_Category- Annual Salary
+• Card_Category - Type of Card (Blue, Silver, Gold, Platinum)
+• Months on book- Period of relationship with bank
+
+   Main Features for bahviors and trends
+
+• Gender 
+• Education Level 
+• Age 
+• Marital Status 
+• Income 
+• Card Type
+
+    Explanation of Training/Testing Sets
+
+• To train and validate the model, we'll split the target sets and features into two sets. The training set will help us identify the relationships between the various features in the model and the target set. The testing set will help us determine the validity of the model. 
+• The current machine learning model didn't exceed %50 when predicting churning customers. I do belive if we were to usea Balanced Random Forest Classifier or  Easy Ensemble AdaBoost Classifier model we would get a more accurate prediction. 
+
+    Model Choice
+    
+• We Choose Random oversampling because we based our model off of 16% 
+of the overall data we were provided. The 16% of the data were the Attrited customers data.
+
+• The Accuracy score reported a %50 chance to predict the clients that are likely to churn. 
