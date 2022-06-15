@@ -27,7 +27,7 @@ Our group has analyzed the customer demographic trends and retrieved all relevan
 ![graph](https://user-images.githubusercontent.com/96032255/172074302-7eb87a81-48fd-49f0-8e0f-66b8aa5520a8.PNG)
 
 ## Conclusion of Analysis
-Our team analyzed six main features extracted from our dataset. Within the six features we have learned that there are 8,500 existing customers and 1,627 attrited customers. Most of which are female and are blue card holders. Out of the 930 attrited female customers it was founded that they make less than 40k a year and are between the ages of 44 to 46. Using the Logistic Regression Oversampling Model we have an accuracy score of 50%. To Look at our visual analysis results click the link. [Project Dashboard](https://public.tableau.com/views/Project_Dashboard_16544692745830/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+Our team analyzed six main features extracted from our dataset. Within the six features we have learned that there are 8,500 existing customers and 1,627 attrited customers. Most of which are female and are blue card holders. Out of the 930 attrited female customers it was founded that they make less than 40k a year and are between the ages of 44 to 46. Using the Logistic Regression Oversampling Model we have an accuracy score of 50%. To Look at our visual analysis results click the link. [Project Dashboard](https://tinyurl.com/projectdashboard1)
 
 ## Recommendations
 * Our Data Analytics team believe by lowering or eliminating annual fees and approving lower interest rates to customers, hoping they may be willing to stay and not churn.
@@ -36,4 +36,4 @@ Our team analyzed six main features extracted from our dataset. Within the six f
 ## Alternative Models
 The one thing our team could have possibly done different would be to use another machine learning model. The Balances Random Forest Classifier or we could have used the Easy Ensemle AdaBoost Classifier to get a more accurate prediction with a higher accurracy rate.
 
-#### To view our complete presentation click the link. [Google Slides](https://docs.google.com/presentation/d/1AuiycLoe2rpS4886QBwBy9vm-aU0bIaKz_qGyI95m-Q/edit?usp=sharing)
+#### To view our complete presentation click the link. [Google Slides](https://bit.ly/3txpzx5)
