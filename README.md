@@ -8,4 +8,8 @@ Credit card services is one of major forms of payment in the retail industry tod
 
 
 ## Link to our Final Presentation
-https://docs.google.com/presentation/d/1AuiycLoe2rpS4886QBwBy9vm-aU0bIaKz_qGyI95m-Q/edit#slide=id.g11fd502241e_0_0
+Google_Slides_Link
+https://bit.ly/3txpzx5
+
+Project_Dashboard_Link
+https://tinyurl.com/projectdashboard1
