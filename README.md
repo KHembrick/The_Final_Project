@@ -5,3 +5,5 @@ Credit card services is one of major forms of payment in the retail industry tod
 
 ## Description of the communication protocols
 ![Communication Protocol](https://user-images.githubusercontent.com/96032255/169706079-971a289d-e0c6-4aef-82e2-a9385ce7d963.PNG)
+
+Link to our Final Presentation https://docs.google.com/presentation/d/1AuiycLoe2rpS4886QBwBy9vm-aU0bIaKz_qGyI95m-Q/edit#slide=id.g11fd502241e_0_0
